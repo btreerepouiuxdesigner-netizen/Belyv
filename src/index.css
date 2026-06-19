@@ -10,3 +10,13 @@ body {
 #root {
   width: 100%;
 }
+
+@keyframes codex-flash {
+  0% { opacity: 0; }
+  30% { opacity: 0.85; }
+  100% { opacity: 0; }
+}
+
+.codex-flash {
+  animation: codex-flash 1100ms ease-out forwards;
+}

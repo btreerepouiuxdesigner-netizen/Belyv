@@ -16,7 +16,8 @@
     "@remotion/player": "^4.0.481",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
-    "remotion": "^4.0.481"
+    "remotion": "^4.0.481",
+    "three": "^0.169.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
